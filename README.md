@@ -2,4 +2,4 @@
 FR3 => Server (can be on the Raspberry pie)
 multichain should be in the same directory.
 
-(Multichane)Paste in C  this file should be in the C drive with required permission 
+The content of [(Multichane)Paste in C] file should be in the C drive with required permission 
